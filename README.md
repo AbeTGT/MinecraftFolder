@@ -1,3 +1,5 @@
+Download here: https://github.com/AbeTGT/MinecraftFolder/releases/tag/Minecraft
+
 # MinecraftFolder
 Allows you to open the .minecraft folder with ease.
 
