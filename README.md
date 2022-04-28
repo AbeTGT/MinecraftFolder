@@ -1,7 +1,7 @@
 Download here: https://github.com/AbeTGT/MinecraftFolder/releases/tag/Minecraft
 
 # MinecraftFolder
-Allows you to open the .minecraft folder with ease.
+Allows you to open the .minecraft folder with ease. Only 21 lines of code!
 
 # Official Webpage
 You can view the official webpage on my website here: http://abetgtstudios.coolpage.biz/newhome/MinecraftFolder.html
